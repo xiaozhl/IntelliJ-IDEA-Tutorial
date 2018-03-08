@@ -1,6 +1,3 @@
-# Summary
-
-* [Introduction](README.md)
 * [01. IntelliJ IDEA 介绍（新用户必看）](introduce.md)
 * [02. 教程介绍（新用户必看）](about-this-tutorial.md)
 * [03. 安装环境：Windows](windows-install.md)
@@ -42,4 +39,4 @@
 * [39. IntelliJ IDEA 远程调试（Tomcat+Jetty）](remote-debugging.md)
 * [40. 最特殊的快捷键 Alt + Enter 介绍（新用户必看）](hotkey-alt-enter-introduce.md)
 * [41. IntelliJ IDEA 插件开发视频教程](plugins-develop.md)
-
+ [42. 本教程总结](this-tutorial-the-end.md)
